@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Welcome to my development world!");
         System.out.println("Добро пожаловать в мой мир разработки!");
         System.out.println("Welcome to my world, the world of Shinigami!");
-        System.out.println("Добро пожаловать в мой мир, мир Шинигами!");
+        System.out.println("Добро пожаловать в мой мир, мир Шинигими!");
     }
 }
